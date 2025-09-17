@@ -53,6 +53,19 @@
      gap: 10px;
 }
 
+.cosplay{
+    display: flex;
+    justify-content: center;
+}
+
+.gojo{
+    font-size: 32px;
+}
+
+.gojo2{
+    font-size: 30px;
+}
+
 
 
 
