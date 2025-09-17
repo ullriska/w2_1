@@ -13,6 +13,7 @@
 
 .ALG{
     padding-left: 50px;
+    
    
     
 }
@@ -24,6 +25,7 @@
 .popis{
     font-size: 30px;
     padding-top: 10px;
+    
 }
 
 .dovednosti{
@@ -31,6 +33,21 @@
     padding-left: 50px;
     font-size: 30px;
     text-decoration: none;
+   
+    
+}
+
+.dovednostisekce{
+    padding-top: 50px;
+   justify-content: center;
+    display: grid;
+    font-size: 32px;
+    
+}
+
+.sekce{
+    padding: 20px;
+    background-color: rgb(227, 235, 255);
 }
 
 
