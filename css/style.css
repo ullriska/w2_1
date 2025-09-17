@@ -13,6 +13,7 @@
 
 .ALG{
     padding-left: 50px;
+
     
    
     
@@ -30,10 +31,12 @@
 
 .dovednosti{
     padding-top: 50px;
-    padding-left: 50px;
+    padding-left: 150px;
     font-size: 30px;
     text-decoration: none;
     color: rgb(167, 24, 24);
+    display: flex;
+    justify-content: center;
    
     
 }
@@ -50,21 +53,42 @@
 .sekce{
     padding: 20px;
      background-color: rgb(227, 235, 255);
-     gap: 10px;
+     gap: 50px;
 }
 
 .cosplay{
-    display: flex;
-    justify-content: center;
+   padding-left: 150px;
+   padding-bottom: px;
 }
 
 .gojo{
     font-size: 32px;
+    padding-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .gojo2{
     font-size: 30px;
+    padding-left: 150px;
+    padding-bottom: 30px;
 }
+
+.con{
+    font-size: 40px;
+    color:rgb(167, 24, 24) ;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+}
+
+.igyt{
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+}
+
+
 
 
 
