@@ -33,6 +33,7 @@
     padding-left: 50px;
     font-size: 30px;
     text-decoration: none;
+    color: rgb(167, 24, 24);
    
     
 }
@@ -42,13 +43,17 @@
    justify-content: center;
     display: grid;
     font-size: 32px;
+   
     
 }
 
 .sekce{
     padding: 20px;
-    background-color: rgb(227, 235, 255);
+     background-color: rgb(227, 235, 255);
+     gap: 10px;
 }
+
+
 
 
 
