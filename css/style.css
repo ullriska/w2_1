@@ -110,8 +110,14 @@ flex-direction: column;
 
 
 
-@media (min-width:1000)
+@media (min-width:1000px)
 {
 
+.bbnopic{
+    display: flex;
+    justify-content: start;
+    padding-left: 100px;
+    
+}
     
 }
