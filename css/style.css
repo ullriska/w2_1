@@ -44,14 +44,15 @@
 
 .dovednostisekce{
     font-size: 32px;
-   
+   padding: 1rem;
     
 }
 
 .sekce{
      background-color: rgb(227, 235, 255);
     text-align: center;
-     
+     margin-bottom: 1rem;
+     padding: 1rem;
      
 }
 
@@ -72,20 +73,18 @@
 }
 
 .cosplay{
-   padding-left: 150px;
    padding-bottom: 10px;
 }
 
 .gojo{
     font-size: 32px;
-    padding-left: 150px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 .gojo2{
     font-size: 30px;
-    padding-left: 150px;
+ 
     padding-bottom: 30px;
 }
 
@@ -95,6 +94,14 @@
     font-size: 30px;
     padding-bottom: 20px;
     padding-left: 150px;
+}
+
+.portfolio{
+align-items: center;
+align-content: center;
+display: flex;
+flex-direction: column;
+    
 }
 
 
