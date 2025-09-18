@@ -13,52 +13,67 @@
 
 .ALG{
     padding-left: 50px;
-
+    text-align: center;
     
-   
     
 }
 .cervena{
     color: rgb(167, 24, 24);
     font-size: 50px;
+    display: flex;
+    justify-content: center;
 }
 
 .popis{
     font-size: 30px;
-    padding-top: 10px;
+    text-align: center;
+    
     
 }
 
 .dovednosti{
     padding-top: 50px;
-    padding-left: 150px;
     font-size: 30px;
-    text-decoration: none;
     color: rgb(167, 24, 24);
     display: flex;
     justify-content: center;
+    padding-bottom: 20px;
    
     
 }
 
 .dovednostisekce{
-    padding-top: 50px;
-   justify-content: center;
-    display: grid;
     font-size: 32px;
    
     
 }
 
 .sekce{
-    padding: 20px;
      background-color: rgb(227, 235, 255);
-     gap: 50px;
+    text-align: center;
+     
+     
+}
+
+.sekce1{
+    background-color:rgb(227, 235, 255) ;
+    text-align: center;
+}
+
+.sekce2{
+    background-color:rgb(227, 235, 255);
+    text-align: center;
+    
+}
+
+.sekce3{
+    background-color:rgb(227, 235, 255);
+    text-align: center;
 }
 
 .cosplay{
    padding-left: 150px;
-   padding-bottom: px;
+   padding-bottom: 10px;
 }
 
 .gojo{
@@ -74,13 +89,7 @@
     padding-bottom: 30px;
 }
 
-.con{
-    font-size: 40px;
-    color:rgb(167, 24, 24) ;
-    padding-top: 50px;
-    padding-bottom: 20px;
-    padding-left: 150px;
-}
+
 
 .igyt{
     font-size: 30px;
@@ -96,5 +105,6 @@
 
 @media (min-width:1000)
 {
+
     
 }
